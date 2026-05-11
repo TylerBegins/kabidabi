@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dypw42m54s7b4"
+path="res://.godot/imported/Air Spell 2 - With Charge up.wav-c27e25e11226f154be8106e083464344.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/WAV/Air Spell 2 - With Charge up.wav"
+dest_files=["res://.godot/imported/Air Spell 2 - With Charge up.wav-c27e25e11226f154be8106e083464344.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

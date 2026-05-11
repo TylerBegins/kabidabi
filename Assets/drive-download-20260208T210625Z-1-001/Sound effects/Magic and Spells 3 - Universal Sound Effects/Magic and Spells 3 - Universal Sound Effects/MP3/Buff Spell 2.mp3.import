@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ctuldn1k60drb"
+path="res://.godot/imported/Buff Spell 2.mp3-2e131768cee93747cc951726cf358e00.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/MP3/Buff Spell 2.mp3"
+dest_files=["res://.godot/imported/Buff Spell 2.mp3-2e131768cee93747cc951726cf358e00.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

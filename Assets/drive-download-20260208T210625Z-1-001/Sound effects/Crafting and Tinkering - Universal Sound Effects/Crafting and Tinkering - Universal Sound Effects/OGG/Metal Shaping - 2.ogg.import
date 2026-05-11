@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b5avlae125sq7"
+path="res://.godot/imported/Metal Shaping - 2.ogg-e87f8bb4ba337db35d147ccb36485c5c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/OGG/Metal Shaping - 2.ogg"
+dest_files=["res://.godot/imported/Metal Shaping - 2.ogg-e87f8bb4ba337db35d147ccb36485c5c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

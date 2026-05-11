@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7g1p8kw3ioq4"
+path="res://.godot/imported/Gravel Footstep - 1.wav-4e4d993c30e1d77b7b91fb6fed88558e.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/WAV/Gravel Footstep - 1.wav"
+dest_files=["res://.godot/imported/Gravel Footstep - 1.wav-4e4d993c30e1d77b7b91fb6fed88558e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

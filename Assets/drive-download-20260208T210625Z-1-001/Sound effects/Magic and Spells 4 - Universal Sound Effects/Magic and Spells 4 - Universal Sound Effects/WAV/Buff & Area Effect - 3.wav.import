@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://85olg3ml0nbo"
+path="res://.godot/imported/Buff & Area Effect - 3.wav-fa4cb333cd6cc618464f19e70cb7f7b9.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/WAV/Buff & Area Effect - 3.wav"
+dest_files=["res://.godot/imported/Buff & Area Effect - 3.wav-fa4cb333cd6cc618464f19e70cb7f7b9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

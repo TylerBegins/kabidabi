@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://k7t51l5a2vma"
+path="res://.godot/imported/Heavy Armour Footstep 4.ogg-eb74ec2f186c3adf4fa6631e5ec814bc.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/OGG/Heavy Armour Footstep 4.ogg"
+dest_files=["res://.godot/imported/Heavy Armour Footstep 4.ogg-eb74ec2f186c3adf4fa6631e5ec814bc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

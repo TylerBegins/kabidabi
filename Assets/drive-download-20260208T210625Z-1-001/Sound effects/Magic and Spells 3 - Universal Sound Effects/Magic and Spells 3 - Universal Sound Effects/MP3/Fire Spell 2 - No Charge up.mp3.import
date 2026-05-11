@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dtuaykjolycdx"
+path="res://.godot/imported/Fire Spell 2 - No Charge up.mp3-809eac0d7e43ac9e4ff6c5463c9c1294.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/MP3/Fire Spell 2 - No Charge up.mp3"
+dest_files=["res://.godot/imported/Fire Spell 2 - No Charge up.mp3-809eac0d7e43ac9e4ff6c5463c9c1294.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

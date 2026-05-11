@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://deymxwr1njiqh"
+path="res://.godot/imported/Typing 2.mp3-22172ef9be5c390c17f46798241c0c32.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/MP3/Typing 2.mp3"
+dest_files=["res://.godot/imported/Typing 2.mp3-22172ef9be5c390c17f46798241c0c32.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://e512fit8x5lq"
+path="res://.godot/imported/Buff Spell 1.ogg-a4d8f233a847cdbcbf840706f88f2c0e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/OGG/Buff Spell 1.ogg"
+dest_files=["res://.godot/imported/Buff Spell 1.ogg-a4d8f233a847cdbcbf840706f88f2c0e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

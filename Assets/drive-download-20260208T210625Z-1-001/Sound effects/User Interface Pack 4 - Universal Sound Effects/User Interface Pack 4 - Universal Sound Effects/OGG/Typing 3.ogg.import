@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dquacg8agrx43"
+path="res://.godot/imported/Typing 3.ogg-f4b25c149dbbabdf8d70f6ca60933031.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Typing 3.ogg"
+dest_files=["res://.godot/imported/Typing 3.ogg-f4b25c149dbbabdf8d70f6ca60933031.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

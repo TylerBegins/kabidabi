@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dny70jr86ldvy"
+path="res://.godot/imported/Snow Footsteps 1.mp3-3b534ca3afa4fb4f0d30803bf97effd3.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/MP3/Snow Footsteps 1.mp3"
+dest_files=["res://.godot/imported/Snow Footsteps 1.mp3-3b534ca3afa4fb4f0d30803bf97effd3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

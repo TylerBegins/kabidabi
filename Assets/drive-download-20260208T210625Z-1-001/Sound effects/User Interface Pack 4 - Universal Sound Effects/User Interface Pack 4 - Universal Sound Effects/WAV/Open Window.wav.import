@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cgm6rtuf45o0i"
+path="res://.godot/imported/Open Window.wav-2d3615b2be5c67aba1efa89e69d22b1a.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/WAV/Open Window.wav"
+dest_files=["res://.godot/imported/Open Window.wav-2d3615b2be5c67aba1efa89e69d22b1a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

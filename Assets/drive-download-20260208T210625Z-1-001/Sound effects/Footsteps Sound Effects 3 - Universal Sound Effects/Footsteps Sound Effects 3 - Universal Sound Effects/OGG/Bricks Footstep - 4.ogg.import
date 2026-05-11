@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://domupudh1yp37"
+path="res://.godot/imported/Bricks Footstep - 4.ogg-b97443b0c9557c4dcbb9954b1f9e61dd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/OGG/Bricks Footstep - 4.ogg"
+dest_files=["res://.godot/imported/Bricks Footstep - 4.ogg-b97443b0c9557c4dcbb9954b1f9e61dd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

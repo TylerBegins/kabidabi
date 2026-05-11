@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bja3pxiw1h0ip"
+path="res://.godot/imported/Water Footstep 5.ogg-168d22e6e190ca4a9a5a988ede554f53.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/OGG/Water Footstep 5.ogg"
+dest_files=["res://.godot/imported/Water Footstep 5.ogg-168d22e6e190ca4a9a5a988ede554f53.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

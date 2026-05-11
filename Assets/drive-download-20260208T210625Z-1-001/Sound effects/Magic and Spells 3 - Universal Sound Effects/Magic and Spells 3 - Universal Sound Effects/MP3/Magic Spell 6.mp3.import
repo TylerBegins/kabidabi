@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cr0o4d0o5q7ip"
+path="res://.godot/imported/Magic Spell 6.mp3-6a8d98f1ee6a58d3abbd361f87f5894b.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/MP3/Magic Spell 6.mp3"
+dest_files=["res://.godot/imported/Magic Spell 6.mp3-6a8d98f1ee6a58d3abbd361f87f5894b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

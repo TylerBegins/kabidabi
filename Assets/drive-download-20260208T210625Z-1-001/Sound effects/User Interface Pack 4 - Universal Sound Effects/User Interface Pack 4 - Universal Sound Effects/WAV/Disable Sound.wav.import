@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://df57mx2ddvu8x"
+path="res://.godot/imported/Disable Sound.wav-0c0ce71ec2c8b7180bccc943cae899a9.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/WAV/Disable Sound.wav"
+dest_files=["res://.godot/imported/Disable Sound.wav-0c0ce71ec2c8b7180bccc943cae899a9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dri3xvpxt5lfw"
+path="res://.godot/imported/Snow Footsteps 4.ogg-1fea5d087049f4f23d7b4a95990c3cac.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/OGG/Snow Footsteps 4.ogg"
+dest_files=["res://.godot/imported/Snow Footsteps 4.ogg-1fea5d087049f4f23d7b4a95990c3cac.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

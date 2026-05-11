@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bryb886na04ik"
+path="res://.godot/imported/Fire Spell - 1.wav-03bb6ab3ae3880c7e3bafa2be3093778.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/WAV/Fire Spell - 1.wav"
+dest_files=["res://.godot/imported/Fire Spell - 1.wav-03bb6ab3ae3880c7e3bafa2be3093778.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

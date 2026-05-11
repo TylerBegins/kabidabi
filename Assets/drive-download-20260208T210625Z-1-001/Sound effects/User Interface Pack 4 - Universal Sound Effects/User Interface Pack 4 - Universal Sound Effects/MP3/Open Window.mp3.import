@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ce2glu4m7do8k"
+path="res://.godot/imported/Open Window.mp3-701ea0ec84ddc8395e23485e7ea2af12.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/MP3/Open Window.mp3"
+dest_files=["res://.godot/imported/Open Window.mp3-701ea0ec84ddc8395e23485e7ea2af12.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://4ate5jnbx8b5"
+path="res://.godot/imported/Dirt Footstep 1.wav-cfdf3d4dd96aa16fbdcc6dea191daf88.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/WAV/Dirt Footstep 1.wav"
+dest_files=["res://.godot/imported/Dirt Footstep 1.wav-cfdf3d4dd96aa16fbdcc6dea191daf88.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

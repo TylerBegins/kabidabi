@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bck6sx1j8fbc1"
+path="res://.godot/imported/Metal Shaping - 1.mp3-c942d85e47d8064d328580883dc5651b.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/MP3/Metal Shaping - 1.mp3"
+dest_files=["res://.godot/imported/Metal Shaping - 1.mp3-c942d85e47d8064d328580883dc5651b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

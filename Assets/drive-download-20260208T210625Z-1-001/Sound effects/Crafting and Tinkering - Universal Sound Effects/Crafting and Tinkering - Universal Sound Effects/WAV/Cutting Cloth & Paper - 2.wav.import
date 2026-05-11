@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dl0incu04x3g3"
+path="res://.godot/imported/Cutting Cloth & Paper - 2.wav-83e3f342e2c11a11c44a392961f4b567.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/WAV/Cutting Cloth & Paper - 2.wav"
+dest_files=["res://.godot/imported/Cutting Cloth & Paper - 2.wav-83e3f342e2c11a11c44a392961f4b567.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

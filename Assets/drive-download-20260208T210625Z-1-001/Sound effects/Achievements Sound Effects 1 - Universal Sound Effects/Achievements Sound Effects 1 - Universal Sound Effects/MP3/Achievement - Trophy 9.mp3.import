@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdvesuw5lsbu0"
+path="res://.godot/imported/Achievement - Trophy 9.mp3-00d8b5ed6714b8fb4164751f5fbda398.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Achievements Sound Effects 1 - Universal Sound Effects/Achievements Sound Effects 1 - Universal Sound Effects/MP3/Achievement - Trophy 9.mp3"
+dest_files=["res://.godot/imported/Achievement - Trophy 9.mp3-00d8b5ed6714b8fb4164751f5fbda398.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

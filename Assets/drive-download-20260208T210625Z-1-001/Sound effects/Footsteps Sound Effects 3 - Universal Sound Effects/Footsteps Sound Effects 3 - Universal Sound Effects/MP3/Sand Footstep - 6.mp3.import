@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8irruyi3hehb"
+path="res://.godot/imported/Sand Footstep - 6.mp3-0c4550766d104aeece3f702332c6d2bb.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/MP3/Sand Footstep - 6.mp3"
+dest_files=["res://.godot/imported/Sand Footstep - 6.mp3-0c4550766d104aeece3f702332c6d2bb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

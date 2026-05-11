@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dkl0s0d56crum"
+path="res://.godot/imported/Magic Spell - 1.wav-6312438b669f1bb7926118e1e856f090.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/WAV/Magic Spell - 1.wav"
+dest_files=["res://.godot/imported/Magic Spell - 1.wav-6312438b669f1bb7926118e1e856f090.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

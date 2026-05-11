@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cfc56j3esr1dk"
+path="res://.godot/imported/Open - Close Bag 1.ogg-151f3ee42cb3f11428c5332a6841ca92.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Open - Close Bag 1.ogg"
+dest_files=["res://.godot/imported/Open - Close Bag 1.ogg-151f3ee42cb3f11428c5332a6841ca92.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://nwu680lgk6po"
+path="res://.godot/imported/Glass Chime - 2.wav-99ed6543f2e4a9ff8709e884a5ca245e.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/WAV/Glass Chime - 2.wav"
+dest_files=["res://.godot/imported/Glass Chime - 2.wav-99ed6543f2e4a9ff8709e884a5ca245e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

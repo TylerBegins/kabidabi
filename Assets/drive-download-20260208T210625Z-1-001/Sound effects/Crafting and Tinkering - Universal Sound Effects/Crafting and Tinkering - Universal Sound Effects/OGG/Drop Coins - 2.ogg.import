@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b33xmqgylbs6m"
+path="res://.godot/imported/Drop Coins - 2.ogg-afd039b95215aaad7eea99e4764219fe.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/OGG/Drop Coins - 2.ogg"
+dest_files=["res://.godot/imported/Drop Coins - 2.ogg-afd039b95215aaad7eea99e4764219fe.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

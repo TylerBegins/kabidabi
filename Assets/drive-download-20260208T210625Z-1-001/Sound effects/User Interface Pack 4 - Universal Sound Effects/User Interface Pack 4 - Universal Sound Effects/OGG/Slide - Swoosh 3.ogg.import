@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dy3djgmut1a1j"
+path="res://.godot/imported/Slide - Swoosh 3.ogg-22b15e18b42dfb28d7f790b5fa1dcea1.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Slide - Swoosh 3.ogg"
+dest_files=["res://.godot/imported/Slide - Swoosh 3.ogg-22b15e18b42dfb28d7f790b5fa1dcea1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

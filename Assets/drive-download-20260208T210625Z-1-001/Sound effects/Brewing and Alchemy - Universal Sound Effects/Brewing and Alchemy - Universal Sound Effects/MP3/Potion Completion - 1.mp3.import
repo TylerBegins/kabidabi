@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8i0o8tyqgg3j"
+path="res://.godot/imported/Potion Completion - 1.mp3-722ae624d8d38d8dcbc22dd377e83ebb.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Potion Completion - 1.mp3"
+dest_files=["res://.godot/imported/Potion Completion - 1.mp3-722ae624d8d38d8dcbc22dd377e83ebb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

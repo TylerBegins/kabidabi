@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcgxb2hv8v7ni"
+path="res://.godot/imported/Enable Sound.wav-7caa288ca1cdb1fb25200d91b534a869.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/WAV/Enable Sound.wav"
+dest_files=["res://.godot/imported/Enable Sound.wav-7caa288ca1cdb1fb25200d91b534a869.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

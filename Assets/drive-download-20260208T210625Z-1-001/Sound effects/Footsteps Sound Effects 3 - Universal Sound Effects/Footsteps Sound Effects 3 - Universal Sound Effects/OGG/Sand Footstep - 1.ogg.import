@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://8gedllqev6ei"
+path="res://.godot/imported/Sand Footstep - 1.ogg-dfb4ff975a102bb3dc8b89137472e170.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/OGG/Sand Footstep - 1.ogg"
+dest_files=["res://.godot/imported/Sand Footstep - 1.ogg-dfb4ff975a102bb3dc8b89137472e170.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

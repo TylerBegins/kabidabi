@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqb7kmjp1ha2y"
+path="res://.godot/imported/Stirring Liquid - 2.wav-fb7134c6de180a6cbff8a0e1d6216092.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/WAV/Stirring Liquid - 2.wav"
+dest_files=["res://.godot/imported/Stirring Liquid - 2.wav-fb7134c6de180a6cbff8a0e1d6216092.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

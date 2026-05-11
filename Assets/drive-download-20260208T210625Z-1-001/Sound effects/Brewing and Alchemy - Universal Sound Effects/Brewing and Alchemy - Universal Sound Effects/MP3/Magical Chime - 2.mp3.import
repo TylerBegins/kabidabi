@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xdbk8as5akli"
+path="res://.godot/imported/Magical Chime - 2.mp3-4cbae190f35000f3f192fdeb7211e216.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Magical Chime - 2.mp3"
+dest_files=["res://.godot/imported/Magical Chime - 2.mp3-4cbae190f35000f3f192fdeb7211e216.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqkul014px1ai"
+path="res://.godot/imported/Metal Shaping - 4.wav-f3debcb625c1a1f8bba417426d9d32bd.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/WAV/Metal Shaping - 4.wav"
+dest_files=["res://.godot/imported/Metal Shaping - 4.wav-f3debcb625c1a1f8bba417426d9d32bd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

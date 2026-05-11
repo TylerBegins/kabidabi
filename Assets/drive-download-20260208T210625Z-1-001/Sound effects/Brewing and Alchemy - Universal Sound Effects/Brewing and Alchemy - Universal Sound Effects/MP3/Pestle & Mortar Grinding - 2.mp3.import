@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://yjy48fgeeqw4"
+path="res://.godot/imported/Pestle & Mortar Grinding - 2.mp3-4e5b4d5f0b973a25183e8210be71c545.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Pestle & Mortar Grinding - 2.mp3"
+dest_files=["res://.godot/imported/Pestle & Mortar Grinding - 2.mp3-4e5b4d5f0b973a25183e8210be71c545.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

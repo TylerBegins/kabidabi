@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cfry17tt7fb5l"
+path="res://.godot/imported/Pour & Fizz - 1.mp3-12246c5145c343a0de8b1e44d57b1aa0.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Pour & Fizz - 1.mp3"
+dest_files=["res://.godot/imported/Pour & Fizz - 1.mp3-12246c5145c343a0de8b1e44d57b1aa0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

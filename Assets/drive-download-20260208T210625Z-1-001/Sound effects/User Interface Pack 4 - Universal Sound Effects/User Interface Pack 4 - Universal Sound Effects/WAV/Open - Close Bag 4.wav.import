@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bc7xm0agi2q0u"
+path="res://.godot/imported/Open - Close Bag 4.wav-50e1d02ff071777dfe8730236c47de7a.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/WAV/Open - Close Bag 4.wav"
+dest_files=["res://.godot/imported/Open - Close Bag 4.wav-50e1d02ff071777dfe8730236c47de7a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

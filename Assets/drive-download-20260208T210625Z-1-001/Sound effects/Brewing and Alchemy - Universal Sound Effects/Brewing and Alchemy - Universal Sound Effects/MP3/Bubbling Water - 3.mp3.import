@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://oads3tlx3nyw"
+path="res://.godot/imported/Bubbling Water - 3.mp3-15a44078053bd93668753c1ffdaba699.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Bubbling Water - 3.mp3"
+dest_files=["res://.godot/imported/Bubbling Water - 3.mp3-15a44078053bd93668753c1ffdaba699.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtokgqg1rjxgf"
+path="res://.godot/imported/Air Spell 2 - With Charge up.ogg-a4140f7625f047719750833eaeb9a4fd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/OGG/Air Spell 2 - With Charge up.ogg"
+dest_files=["res://.godot/imported/Air Spell 2 - With Charge up.ogg-a4140f7625f047719750833eaeb9a4fd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

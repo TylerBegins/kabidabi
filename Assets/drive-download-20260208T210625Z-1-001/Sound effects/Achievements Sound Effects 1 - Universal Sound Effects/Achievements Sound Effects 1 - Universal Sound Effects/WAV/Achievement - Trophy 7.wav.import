@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cj2ckm5unwskv"
+path="res://.godot/imported/Achievement - Trophy 7.wav-4c81e48be424ae3d96d84ceebe6980e1.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Achievements Sound Effects 1 - Universal Sound Effects/Achievements Sound Effects 1 - Universal Sound Effects/WAV/Achievement - Trophy 7.wav"
+dest_files=["res://.godot/imported/Achievement - Trophy 7.wav-4c81e48be424ae3d96d84ceebe6980e1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

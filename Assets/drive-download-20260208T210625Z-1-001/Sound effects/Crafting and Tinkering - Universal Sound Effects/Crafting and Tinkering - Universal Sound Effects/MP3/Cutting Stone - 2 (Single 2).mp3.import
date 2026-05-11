@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1ec1n7wdur7a"
+path="res://.godot/imported/Cutting Stone - 2 (Single 2).mp3-e2e6a57252df361eb0e7e32925a2f757.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/MP3/Cutting Stone - 2 (Single 2).mp3"
+dest_files=["res://.godot/imported/Cutting Stone - 2 (Single 2).mp3-e2e6a57252df361eb0e7e32925a2f757.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

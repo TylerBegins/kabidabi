@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddxjdikquffb5"
+path="res://.godot/imported/Mix - Pour Ingredient - 2.mp3-8b623e538a22bf6753644bf1a835d6e0.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/MP3/Mix - Pour Ingredient - 2.mp3"
+dest_files=["res://.godot/imported/Mix - Pour Ingredient - 2.mp3-8b623e538a22bf6753644bf1a835d6e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

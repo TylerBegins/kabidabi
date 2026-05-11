@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://yjux0yscioeh"
+path="res://.godot/imported/Stone Footstep - 1.wav-2161783531218f0e419ea2a2de1b19d9.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/WAV/Stone Footstep - 1.wav"
+dest_files=["res://.godot/imported/Stone Footstep - 1.wav-2161783531218f0e419ea2a2de1b19d9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

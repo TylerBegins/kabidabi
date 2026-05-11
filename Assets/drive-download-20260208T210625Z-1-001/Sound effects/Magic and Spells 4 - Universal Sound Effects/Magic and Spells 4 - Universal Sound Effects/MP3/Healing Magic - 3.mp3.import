@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://lpuqjcm3py38"
+path="res://.godot/imported/Healing Magic - 3.mp3-6f6939e9e73794e605bd9d4007269fc2.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/MP3/Healing Magic - 3.mp3"
+dest_files=["res://.godot/imported/Healing Magic - 3.mp3-6f6939e9e73794e605bd9d4007269fc2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

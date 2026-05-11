@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://co07eky68sicy"
+path="res://.godot/imported/Gravel Footstep - 2.ogg-9653a1864f7d47f3655d9eb46a4dc6bd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/OGG/Gravel Footstep - 2.ogg"
+dest_files=["res://.godot/imported/Gravel Footstep - 2.ogg-9653a1864f7d47f3655d9eb46a4dc6bd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wll8gf5d2tib"
+path="res://.godot/imported/Assembling - 1.wav-bfe4494b0fea9211903e3727f3d97d5d.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/WAV/Assembling - 1.wav"
+dest_files=["res://.godot/imported/Assembling - 1.wav-bfe4494b0fea9211903e3727f3d97d5d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://du5c6hqwbyfq8"
+path="res://.godot/imported/Achievement - Trophy 22.ogg-82c5b0bb6e31212400695c2b183a6563.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Achievements Sound Effects 1 - Universal Sound Effects/Achievements Sound Effects 1 - Universal Sound Effects/OGG/Achievement - Trophy 22.ogg"
+dest_files=["res://.godot/imported/Achievement - Trophy 22.ogg-82c5b0bb6e31212400695c2b183a6563.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

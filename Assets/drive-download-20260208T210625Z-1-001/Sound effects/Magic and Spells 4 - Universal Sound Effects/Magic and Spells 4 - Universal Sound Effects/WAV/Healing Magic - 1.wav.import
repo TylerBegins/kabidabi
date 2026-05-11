@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://eavft4a4pa7g"
+path="res://.godot/imported/Healing Magic - 1.wav-38169a9ce1d19f7636f5b0e4b5c94b46.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/WAV/Healing Magic - 1.wav"
+dest_files=["res://.godot/imported/Healing Magic - 1.wav-38169a9ce1d19f7636f5b0e4b5c94b46.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

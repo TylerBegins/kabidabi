@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c7e2ljihlm1fy"
+path="res://.godot/imported/Assembling - 6.mp3-bcb0678fe90b0cbef6a4df86498a0890.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/MP3/Assembling - 6.mp3"
+dest_files=["res://.godot/imported/Assembling - 6.mp3-bcb0678fe90b0cbef6a4df86498a0890.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

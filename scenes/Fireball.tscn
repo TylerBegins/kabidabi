@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://b3pj0qo70frtr"]
+
+[ext_resource type="Script" uid="uid://1uw30vqx7tig" path="res://Scripts/fireball.gd" id="1_6se3a"]
+[ext_resource type="Texture2D" uid="uid://mmccpcma8kxc" path="res://Assets/drive-download-20260208T210625Z-1-001/Spell Icons/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons 1/fire_spell_icons_1 6.png" id="1_t6ihn"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_6se3a"]
+radius = 4.0
+
+[node name="Area2D" type="Area2D" unique_id=782210118]
+rotation = -5.8959246
+collision_layer = 0
+collision_mask = 3
+script = ExtResource("1_6se3a")
+
+[node name="FireSpellIcons16" type="Sprite2D" parent="." unique_id=1451749766]
+position = Vector2(-1, -1)
+texture = ExtResource("1_t6ihn")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=729556757]
+position = Vector2(2, 2)
+rotation = 3.3328564
+shape = SubResource("CircleShape2D_6se3a")
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

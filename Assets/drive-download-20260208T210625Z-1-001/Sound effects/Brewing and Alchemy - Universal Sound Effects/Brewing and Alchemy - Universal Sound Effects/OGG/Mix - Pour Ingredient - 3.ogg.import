@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dyokr63aug7kq"
+path="res://.godot/imported/Mix - Pour Ingredient - 3.ogg-e6abf41c3089e3301d68273b0c1b64cc.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/OGG/Mix - Pour Ingredient - 3.ogg"
+dest_files=["res://.godot/imported/Mix - Pour Ingredient - 3.ogg-e6abf41c3089e3301d68273b0c1b64cc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

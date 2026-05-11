@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c2jdeywhqacev"
+path="res://.godot/imported/Hover over button.ogg-559bbaf0582241277da6f6b77c7f90f9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Hover over button.ogg"
+dest_files=["res://.godot/imported/Hover over button.ogg-559bbaf0582241277da6f6b77c7f90f9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

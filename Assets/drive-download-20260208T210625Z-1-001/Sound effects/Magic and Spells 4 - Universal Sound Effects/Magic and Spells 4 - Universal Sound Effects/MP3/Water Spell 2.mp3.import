@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://deas5uj4u38ja"
+path="res://.godot/imported/Water Spell 2.mp3-81437cda9df007c688e89c67b57d6667.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 4 - Universal Sound Effects/Magic and Spells 4 - Universal Sound Effects/MP3/Water Spell 2.mp3"
+dest_files=["res://.godot/imported/Water Spell 2.mp3-81437cda9df007c688e89c67b57d6667.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

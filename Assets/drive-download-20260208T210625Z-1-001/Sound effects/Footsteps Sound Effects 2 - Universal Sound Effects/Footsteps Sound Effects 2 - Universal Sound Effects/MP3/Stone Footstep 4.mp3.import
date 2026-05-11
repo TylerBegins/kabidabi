@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://x6e0p45xewl7"
+path="res://.godot/imported/Stone Footstep 4.mp3-5051d2759f31e812b3de469f09fe924f.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/MP3/Stone Footstep 4.mp3"
+dest_files=["res://.godot/imported/Stone Footstep 4.mp3-5051d2759f31e812b3de469f09fe924f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

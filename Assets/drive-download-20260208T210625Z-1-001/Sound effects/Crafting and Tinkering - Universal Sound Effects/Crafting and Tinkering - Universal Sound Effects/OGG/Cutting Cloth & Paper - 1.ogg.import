@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b4wjxmaojg4am"
+path="res://.godot/imported/Cutting Cloth & Paper - 1.ogg-a4c2f3397a54c3f27c0a01cefabbe50d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/OGG/Cutting Cloth & Paper - 1.ogg"
+dest_files=["res://.godot/imported/Cutting Cloth & Paper - 1.ogg-a4c2f3397a54c3f27c0a01cefabbe50d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

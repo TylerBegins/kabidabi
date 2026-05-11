@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dbee5y8bl7lji"
+path="res://.godot/imported/Click - Activate 5.mp3-a731bdaccbbbf6cb691214e6d2ef5778.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/MP3/Click - Activate 5.mp3"
+dest_files=["res://.godot/imported/Click - Activate 5.mp3-a731bdaccbbbf6cb691214e6d2ef5778.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://unmtw4f2qa5v"
+path="res://.godot/imported/Wood Footstep - 4.wav-f46141a8d78ec09464a1735b9662c58f.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/WAV/Wood Footstep - 4.wav"
+dest_files=["res://.godot/imported/Wood Footstep - 4.wav-f46141a8d78ec09464a1735b9662c58f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

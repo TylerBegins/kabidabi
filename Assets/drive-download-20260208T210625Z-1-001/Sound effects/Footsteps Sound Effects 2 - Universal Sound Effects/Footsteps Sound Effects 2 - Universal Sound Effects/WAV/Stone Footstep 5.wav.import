@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ol6vmo3icb0c"
+path="res://.godot/imported/Stone Footstep 5.wav-1e81cb14ea8aa1c0521c6b215011dd2c.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 2 - Universal Sound Effects/Footsteps Sound Effects 2 - Universal Sound Effects/WAV/Stone Footstep 5.wav"
+dest_files=["res://.godot/imported/Stone Footstep 5.wav-1e81cb14ea8aa1c0521c6b215011dd2c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

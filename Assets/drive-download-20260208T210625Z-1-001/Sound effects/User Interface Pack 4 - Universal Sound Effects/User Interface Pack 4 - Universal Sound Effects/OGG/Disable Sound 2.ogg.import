@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtpy7yl7u8pyp"
+path="res://.godot/imported/Disable Sound 2.ogg-b096ff6200418c2d2f8aa340c84a6108.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Disable Sound 2.ogg"
+dest_files=["res://.godot/imported/Disable Sound 2.ogg-b096ff6200418c2d2f8aa340c84a6108.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

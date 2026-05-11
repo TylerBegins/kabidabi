@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cudbhh2au08a4"
+path="res://.godot/imported/Dirt Footstep - 4.mp3-8be1ebf73e75dbf79e31c3ccce33b8cf.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/MP3/Dirt Footstep - 4.mp3"
+dest_files=["res://.godot/imported/Dirt Footstep - 4.mp3-8be1ebf73e75dbf79e31c3ccce33b8cf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

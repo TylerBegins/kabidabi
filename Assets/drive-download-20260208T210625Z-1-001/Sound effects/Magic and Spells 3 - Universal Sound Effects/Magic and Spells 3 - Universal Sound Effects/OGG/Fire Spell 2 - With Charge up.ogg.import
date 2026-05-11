@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dl0mgnw6hbs31"
+path="res://.godot/imported/Fire Spell 2 - With Charge up.ogg-ff281ec4e9bd85567c1f830ea032b18f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/OGG/Fire Spell 2 - With Charge up.ogg"
+dest_files=["res://.godot/imported/Fire Spell 2 - With Charge up.ogg-ff281ec4e9bd85567c1f830ea032b18f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

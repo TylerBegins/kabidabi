@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bg1t1asn388au"
+path="res://.godot/imported/Enable Sound 2.ogg-0b10c0e3ed7d13138a4f6377dbcf43f9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/OGG/Enable Sound 2.ogg"
+dest_files=["res://.godot/imported/Enable Sound 2.ogg-0b10c0e3ed7d13138a4f6377dbcf43f9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

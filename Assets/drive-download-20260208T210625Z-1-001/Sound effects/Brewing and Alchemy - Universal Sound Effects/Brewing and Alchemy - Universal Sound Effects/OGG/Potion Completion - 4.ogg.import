@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b8c6ishg20wq3"
+path="res://.godot/imported/Potion Completion - 4.ogg-dc6bd65a273c45a274c1d56250f566e5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/OGG/Potion Completion - 4.ogg"
+dest_files=["res://.godot/imported/Potion Completion - 4.ogg-dc6bd65a273c45a274c1d56250f566e5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

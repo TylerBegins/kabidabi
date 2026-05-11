@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c3wykka1t8sto"
+path="res://.godot/imported/Open Map - Menu 5.wav-e042661dd18d265e26f9c1a37d6a05d0.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/User Interface Pack 4 - Universal Sound Effects/User Interface Pack 4 - Universal Sound Effects/WAV/Open Map - Menu 5.wav"
+dest_files=["res://.godot/imported/Open Map - Menu 5.wav-e042661dd18d265e26f9c1a37d6a05d0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

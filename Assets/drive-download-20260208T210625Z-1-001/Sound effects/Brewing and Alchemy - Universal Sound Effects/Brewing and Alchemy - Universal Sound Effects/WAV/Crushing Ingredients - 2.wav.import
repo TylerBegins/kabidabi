@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b38et88vm7lj5"
+path="res://.godot/imported/Crushing Ingredients - 2.wav-2228797fbd8e7a608e40bc69d9bf2a96.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/WAV/Crushing Ingredients - 2.wav"
+dest_files=["res://.godot/imported/Crushing Ingredients - 2.wav-2228797fbd8e7a608e40bc69d9bf2a96.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

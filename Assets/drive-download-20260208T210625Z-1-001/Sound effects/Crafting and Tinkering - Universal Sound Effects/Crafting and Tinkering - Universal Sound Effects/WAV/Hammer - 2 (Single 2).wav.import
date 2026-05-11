@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cdjf08ly58os"
+path="res://.godot/imported/Hammer - 2 (Single 2).wav-21b7f3b02c9e026e91f6802ec43bd1e3.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/WAV/Hammer - 2 (Single 2).wav"
+dest_files=["res://.godot/imported/Hammer - 2 (Single 2).wav-21b7f3b02c9e026e91f6802ec43bd1e3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

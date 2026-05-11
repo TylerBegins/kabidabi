@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c3g0pv74ywsfa"
+path="res://.godot/imported/Gravel Footstep - 5.mp3-1238aebcb4c36a1cd39a70a1e117ab21.mp3str"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Footsteps Sound Effects 3 - Universal Sound Effects/Footsteps Sound Effects 3 - Universal Sound Effects/MP3/Gravel Footstep - 5.mp3"
+dest_files=["res://.godot/imported/Gravel Footstep - 5.mp3-1238aebcb4c36a1cd39a70a1e117ab21.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

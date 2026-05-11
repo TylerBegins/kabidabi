@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b6mkyu66j4ruv"
+path="res://.godot/imported/Pour Liquid - 1.wav-3a0b3e2b3eefe4b9a52b0c7938812026.sample"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/WAV/Pour Liquid - 1.wav"
+dest_files=["res://.godot/imported/Pour Liquid - 1.wav-3a0b3e2b3eefe4b9a52b0c7938812026.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

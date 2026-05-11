@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cdq2rhmb6mqlv"
+path="res://.godot/imported/Fizzing Liquid - 1.ogg-bb29f5011ef53ce13049bee46c5a3556.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Brewing and Alchemy - Universal Sound Effects/Brewing and Alchemy - Universal Sound Effects/OGG/Fizzing Liquid - 1.ogg"
+dest_files=["res://.godot/imported/Fizzing Liquid - 1.ogg-bb29f5011ef53ce13049bee46c5a3556.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

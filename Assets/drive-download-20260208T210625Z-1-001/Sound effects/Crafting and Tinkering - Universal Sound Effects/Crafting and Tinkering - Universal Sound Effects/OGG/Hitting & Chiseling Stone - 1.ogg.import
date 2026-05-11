@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d2pbr17th55r7"
+path="res://.godot/imported/Hitting & Chiseling Stone - 1.ogg-0242a31576f32c97141d1f2b103ed806.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Crafting and Tinkering - Universal Sound Effects/Crafting and Tinkering - Universal Sound Effects/OGG/Hitting & Chiseling Stone - 1.ogg"
+dest_files=["res://.godot/imported/Hitting & Chiseling Stone - 1.ogg-0242a31576f32c97141d1f2b103ed806.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cnrvptv7foydf"
+path="res://.godot/imported/Magic Spell 1.ogg-dc1a526dc465717487c56822d9e2afcb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/drive-download-20260208T210625Z-1-001/Sound effects/Magic and Spells 3 - Universal Sound Effects/Magic and Spells 3 - Universal Sound Effects/OGG/Magic Spell 1.ogg"
+dest_files=["res://.godot/imported/Magic Spell 1.ogg-dc1a526dc465717487c56822d9e2afcb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
