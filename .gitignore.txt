@@ -1,0 +1,26 @@
+# Godot 4+ specific ignores
+.godot/
+.import/
+.export/
+
+# Imported assets
+*.import
+
+# Exported builds
+export.cfg
+export_presets.cfg
+
+# Mono / C# (ignore if not using C#)
+.mono/
+data_*/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/
+.idea/
+
+# Logs
+*.log
