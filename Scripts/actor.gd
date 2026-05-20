@@ -1,10 +1,9 @@
 class_name Actor
 extends CharacterBody2D
 
-@export var max_health := 10
-var health := 0
 var is_dead := false
 var move_speed := 140
+@onready var health_component = $HealthComponent
 
 static var player #static variables are shared across all instances
 
@@ -30,13 +29,3 @@ func _physics_process(_delta):
 		velocity = Vector2.ZERO
 
 	move_and_collide(velocity * _delta)
-
-func take_damage(amount):
-	health -= amount
-	print("Enemy HP:", health)
-
-	if health <= 0:
-		die()
-
-func die():
-	queue_free()

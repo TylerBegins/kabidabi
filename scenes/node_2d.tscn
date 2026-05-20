@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://dwl3koja4hqs5" path="res://node_2d.gd" id="1_0e48y"]
 [ext_resource type="Texture2D" uid="uid://d0snehj5v3auf" path="res://Assets/drive-download-20260208T210625Z-1-001/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites/Enemy_01/Enemy_01_A/Enemy_01_A.png" id="1_wtcfe"]
+[ext_resource type="PackedScene" uid="uid://donq6fcp8ji22" path="res://scenes/health_component.tscn" id="2_rnjyy"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0h7mo"]
 atlas = ExtResource("1_wtcfe")
@@ -153,7 +154,9 @@ radius = 6.0827627
 [node name="CharacterBody2D" type="CharacterBody2D" unique_id=447338093]
 safe_margin = 10.219
 script = ExtResource("1_0e48y")
-max_health = 6
+max_health = 5
+
+[node name="HealthComponent" parent="." unique_id=1602971861 instance=ExtResource("2_rnjyy")]
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=422101999]
 position = Vector2(0, -9)

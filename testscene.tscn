@@ -4,7 +4,6 @@
 [ext_resource type="Texture2D" uid="uid://8ku5sy8boo8l" path="res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Ground_Tiles.png" id="2_612pj"]
 [ext_resource type="Texture2D" uid="uid://cq77wvsxsk0lv" path="res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Wasteland.png" id="3_asog6"]
 [ext_resource type="Texture2D" uid="uid://dvm1wbln623gk" path="res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Water_Tiles.png" id="4_mawog"]
-[ext_resource type="PackedScene" uid="uid://b3pj0qo70frtr" path="res://scenes/Fireball.tscn" id="5_fy0p5"]
 [ext_resource type="PackedScene" uid="uid://4pqund3nukl7" path="res://scenes/node_2d.tscn" id="5_mawog"]
 [ext_resource type="Script" uid="uid://rwcvyvjpsgg" path="res://Scripts/spawner.gd" id="6_b56k5"]
 [ext_resource type="PackedScene" uid="uid://dim301uhjugxy" path="res://scenes/enemy_spawner.tscn" id="7_scc5w"]
@@ -3752,7 +3751,6 @@ tile_set = SubResource("TileSet_b56k5")
 visibility_layer = 31
 position = Vector2(-133, 1)
 rotation = 0.0006380556
-projectile_prefab = ExtResource("5_fy0p5")
 
 [node name="enemy" parent="." unique_id=447338093 instance=ExtResource("5_mawog")]
 position = Vector2(477, 59)

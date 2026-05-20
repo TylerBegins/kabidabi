@@ -1,0 +1,8 @@
+res://scenes/Fireball.tscn
+res://Scripts/fireball.gd
+res://Scripts/health_component.gd
+res://scenes/health_component.tscn
+res://scenes/node_2d.tscn
+res://scenes/enemy_spawner.tscn
+res://Scripts/actor.gd
+res://character_body_2d.gd
