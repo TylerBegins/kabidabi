@@ -5,8 +5,6 @@ signal died
 @export var max_health: int = 5
 var current_health: int
 
-@onready var health_component = $HealthComponent
-
 func _ready():
 	current_health = max_health
 

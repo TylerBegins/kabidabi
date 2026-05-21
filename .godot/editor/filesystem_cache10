@@ -1,11 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1779241347
+::res://::1779331217
 .gitignore.txt::TextFile::-1::1778895070::0::1::::<><><>0<>0<><>::
 animated_sprite_2d.gd::GDScript::5541898806146789435::1778891254::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
 camera_2d.gd::GDScript::3370918274872588346::1778891254::0::1::::<>Camera2D<><>0<>0<><>::
-character_body_2d.gd::GDScript::3688761218886401388::1778895928::0::1::::<>Actor<><>0<>0<><>::
+character_body_2d.gd::GDScript::3688761218886401388::1779251286::0::1::::<>Actor<><>0<>0<><>::
 icon.svg::CompressedTexture2D::1790880795757653::1778891254::1778892974::1::::<><><>0<>0<>1d558fff71561543e2cf7e0d300c3350<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.gd::GDScript::8727843449416372874::1778891254::0::1::::<>Actor<><>0<>0<><>::
+node_2d.gd::GDScript::8727843449416372874::1779251061::0::1::::<>Actor<><>0<>0<><>::
 testscene.tscn::PackedScene::3791658258131732202::1778895928::0::1::::<><><>0<>0<><>::uid://d30ebo7uakvax::::res://scenes/player.tscn<>uid://8ku5sy8boo8l::::res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Ground_Tiles.png<>uid://cq77wvsxsk0lv::::res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Wasteland.png<>uid://dvm1wbln623gk::::res://Assets/drive-download-20260208T210625Z-1-001/Wastelands Tile/Wastelands Tileset 16x16 Pixelart [Rogue Adventure]/Wastelands Tilesets/RA_Water_Tiles.png<>uid://4pqund3nukl7::::res://scenes/node_2d.tscn<>uid://rwcvyvjpsgg::::res://Scripts/spawner.gd<>uid://dim301uhjugxy::::res://scenes/enemy_spawner.tscn
 ::res://Assets/::1778892975
 ChatGPT Image Mar 6, 2026, 04_34_37 PM.png::CompressedTexture2D::2590004349333024324::1778891247::1778892975::1::::<><><>0<>0<>cffc642ae6c329cd0b27915a673843eb<>res://.godot/imported/ChatGPT Image Mar 6, 2026, 04_34_37 PM.png-b9365dd4ab93586eb0e5c872b3316d65.ctex::
@@ -14442,19 +14442,19 @@ attack_statCurve.tres::Curve::1161540396472033524::1778891254::0::1::::<><><>0<>
 defense_statCurve.tres::Curve::1446204998611137777::1778891254::0::1::::<><><>0<>0<><>::
 max_health_statCurve.tres::Curve::140482372498358245::1778891254::0::1::::<><><>0<>0<><>::
 speed_statCurve.tres::Curve::366646166622681072::1778891254::0::1::::<><><>0<>0<><>::
-::res://scenes/::1779241383
+::res://scenes/::1779251546
 character_body_2d.tscn::PackedScene::9176404556230444219::1778891254::0::1::::<><><>0<>0<><>::uid://bss4mgihbqfdc::::res://character_body_2d.gd<>uid://boa5scnw8xkf7::::res://camera_2d.gd<>uid://4q335xxs2p::::res://icon.svg
-enemy_spawner.tscn::PackedScene::7747291450711423822::1778891254::0::1::::<><><>0<>0<><>::uid://bv5y70iskuvtd::::res://Scripts/enemy_spawner.gd<>uid://4pqund3nukl7::::res://scenes/node_2d.tscn
-Fireball.tscn::PackedScene::4383265933139847955::1778891254::0::1::::<><><>0<>0<><>::uid://1uw30vqx7tig::::res://Scripts/fireball.gd<>uid://mmccpcma8kxc::::res://Assets/drive-download-20260208T210625Z-1-001/Spell Icons/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons 1/fire_spell_icons_1 6.png
-node_2d.tscn::PackedScene::2067450008304524526::1778891254::0::1::::<><><>0<>0<><>::uid://dwl3koja4hqs5::::res://node_2d.gd<>uid://d0snehj5v3auf::::res://Assets/drive-download-20260208T210625Z-1-001/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites/Enemy_01/Enemy_01_A/Enemy_01_A.png
-player.tscn::PackedScene::9176404556230444219::1778891254::0::1::::<><><>0<>0<><>::uid://bss4mgihbqfdc::::res://character_body_2d.gd<>uid://b3pj0qo70frtr::::res://scenes/Fireball.tscn<>uid://boa5scnw8xkf7::::res://camera_2d.gd<>uid://4q335xxs2p::::res://icon.svg
-health_component.tscn::PackedScene::8169769870742202761::1779241378::0::1::::<><><>0<>0<><>::
-::res://Scripts/::1778891254
-actor.gd::GDScript::7259189727697110043::1778891254::0::1::::Actor<>CharacterBody2D<><>0<>0<><>::
+enemy_spawner.tscn::PackedScene::7747291450711423822::1779246951::0::1::::<><><>0<>0<><>::uid://bv5y70iskuvtd::::res://Scripts/enemy_spawner.gd<>uid://4pqund3nukl7::::res://scenes/node_2d.tscn
+Fireball.tscn::PackedScene::4383265933139847955::1779246347::0::1::::<><><>0<>0<><>::uid://1uw30vqx7tig::::res://Scripts/fireball.gd<>uid://mmccpcma8kxc::::res://Assets/drive-download-20260208T210625Z-1-001/Spell Icons/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons  16x16 Pixelart/Fire Spell Icons 1/fire_spell_icons_1 6.png
+health_component.tscn::PackedScene::8169769870742202761::1779251018::0::1::::<><><>0<>0<><>::uid://bevv6ggx1i27o::::res://Scripts/health_component.gd
+node_2d.tscn::PackedScene::2067450008304524526::1779246940::0::1::::<><><>0<>0<><>::uid://dwl3koja4hqs5::::res://node_2d.gd<>uid://d0snehj5v3auf::::res://Assets/drive-download-20260208T210625Z-1-001/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites Pack 1 [Rogue Adventure]/Enemy Sprites/Enemy_01/Enemy_01_A/Enemy_01_A.png<>uid://donq6fcp8ji22::::res://scenes/health_component.tscn
+player.tscn::PackedScene::9176404556230444219::1779251546::0::1::::<><><>0<>0<><>::uid://bss4mgihbqfdc::::res://character_body_2d.gd<>uid://b3pj0qo70frtr::::res://scenes/Fireball.tscn<>uid://boa5scnw8xkf7::::res://camera_2d.gd<>uid://4q335xxs2p::::res://icon.svg<>uid://donq6fcp8ji22::::res://scenes/health_component.tscn
+::res://Scripts/::1779251540
+actor.gd::GDScript::7259189727697110043::1779251045::0::1::::Actor<>CharacterBody2D<><>0<>0<><>::
 damage.gd::GDScript::2962610854635554250::1778891254::0::1::::<>Node<><>0<>0<><>::
-enemy_spawner.gd::GDScript::3923833412219127133::1778891254::0::1::::<>Node2D<><>0<>0<><>::
-fireball.gd::GDScript::1867584612023865618::1778891254::0::1::::<>Area2D<><>0<>0<><>::
-health_component.gd::GDScript::2711858733028667002::1779241383::0::1::::<>Node<><>0<>0<><>::
+enemy_spawner.gd::GDScript::3923833412219127133::1779251540::0::1::::<>Node2D<><>0<>0<><>::
+fireball.gd::GDScript::1867584612023865618::1779246818::0::1::::<>Area2D<><>0<>0<><>::
+health_component.gd::GDScript::2711858733028667002::1779251018::0::1::::<>Node<><>0<>0<><>::
 spawner.gd::GDScript::36434908280128706::1778891254::0::1::::<>Node2D<><>0<>0<><>::
 stats.gd::GDScript::7254674841620717328::1778891254::0::1::::Stats<>Resource<><>0<>0<><>::
 stat_buff.gd::GDScript::74085808520047883::1778891254::0::1::::StatBuff<>Resource<><>0<>0<><>::

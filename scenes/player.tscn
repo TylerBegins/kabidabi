@@ -4,6 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://b3pj0qo70frtr" path="res://scenes/Fireball.tscn" id="2_dqkch"]
 [ext_resource type="Script" uid="uid://boa5scnw8xkf7" path="res://camera_2d.gd" id="2_ij6vw"]
 [ext_resource type="Texture2D" uid="uid://4q335xxs2p" path="res://icon.svg" id="3_dn4c7"]
+[ext_resource type="PackedScene" uid="uid://donq6fcp8ji22" path="res://scenes/health_component.tscn" id="3_qlg0r"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_dn4c7"]
 
@@ -17,7 +18,8 @@ visibility_layer = 7
 safe_margin = 7.291
 script = ExtResource("1_f50pn")
 projectile_prefab = ExtResource("2_dqkch")
-max_health = 199
+
+[node name="HealthComponent" parent="." unique_id=1602971861 instance=ExtResource("3_qlg0r")]
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1306783830]
 zoom = Vector2(1.77, 1.77)

@@ -6,10 +6,12 @@ const JUMP_VELOCITY = -400.0
 const ATTACKS = []
 @export var projectile_prefab : PackedScene
 
-
-var i = 0
-
+func _ready():
+	health_component.died.connect(_on_died)
+	
 func _physics_process(_delta: float) -> void:
+	if Input.is_action_just_pressed("ui_accept"):
+		health_component.take_damage(10)
 	
 		
 	var input_vector := Vector2(
@@ -31,3 +33,6 @@ func attack():
 func _on_attack_circle_body_entered(body: Node2D) -> void:
 	if body.has_method("take_damage"):
 		body.take_damage(1)
+
+func _on_died():
+	queue_free()
