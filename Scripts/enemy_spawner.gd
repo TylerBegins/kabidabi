@@ -9,19 +9,28 @@ var target : Node2D
 var timer := 0.0
 
 func _ready():
-	target = get_tree().get_first_node_in_group("player")
+	target = get_tree().get_first_node_in_group("Player")
 
 func _process(delta):
+	if !is_instance_valid(target):
+		target = get_tree().get_first_node_in_group("Player")
 	timer += delta
 	if timer >= spawn_interval:
 		timer = 0.0
 
 func _on_timer_timeout() -> void:
 
+	if !is_instance_valid(target):
+		target = get_tree().get_first_node_in_group("Player")
+	
+	if !is_instance_valid(target):
+		return
+		
 	var enemy = enemy_prefab.instantiate()
 	add_child(enemy)   # always add first
 
 	var offset = Vector2(randf_range(-200, 200), randf_range(-200, 200))
+	
 	enemy.global_position = target.global_position + offset
 	enemy.player = target
 	

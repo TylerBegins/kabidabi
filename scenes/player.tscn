@@ -13,7 +13,7 @@
 [sub_resource type="CircleShape2D" id="CircleShape2D_4vejd"]
 radius = 90.35486
 
-[node name="Player" type="CharacterBody2D" unique_id=1914194848]
+[node name="Player" type="CharacterBody2D" unique_id=1914194848 groups=["Player"]]
 visibility_layer = 7
 safe_margin = 7.291
 script = ExtResource("1_f50pn")
